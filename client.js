@@ -17,6 +17,12 @@ const connect = function () {
     console.log("Server says:", data);
   });
 
+  // connection event handler
+  conn.on("connect", () => {
+    console.log("Successfully connected to game server");
+    conn.write("Name: ckats123");
+  });
+
   return conn;
 };
 
