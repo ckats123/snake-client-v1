@@ -10,8 +10,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["![Alt text](snek-multiplayer.png)"](#)
-!["screenshot description"](#)
+!["![Game Screenshot](snek-multiplayer-1.png)"](#)
 
 ## Getting Started
 
