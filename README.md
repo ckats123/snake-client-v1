@@ -15,4 +15,8 @@ Before you can run this client, you will need to be running the server side whic
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
-- Run the development snake client using the `node play.js` command.
+- Ensure 'npm run play' command is running on the snek-multiplayer-v1 terminal, then run the development snake-client-v1 using the `node play.js` command
+- Move the snake via WASD keys, and press any numbers between 1-5 to send messages
+- Goal: Do your best to grow the snake by eating red dots!
+- Try to avoid running into the wall, or yourself
+- To exit game, press ctrl + c
